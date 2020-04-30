@@ -4,6 +4,8 @@
 
 ## Backend: https://yipah-jojitoon-api.herokuapp.com
 
+## Mobile: https://expo.io/@/yipahmobile
+
 #
 
 # Backend Setup
@@ -24,8 +26,8 @@
 
 # Mobile Setup
 
-#### make sure you have your sytem setup for react-native : https://reactnative.dev/docs/environment-setup
+#### make sure you have your sytem setup for expo : https://reactnative.dev/docs/environment-setup
 
-- `cd yipah-mobile`
+- `cd yipahmobile`
 - `yarn`
 - `yarn android` or `yarn ios`
