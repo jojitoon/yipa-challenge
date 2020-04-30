@@ -1,4 +1,5 @@
 backend/node_modules
+yipahmobile/node_modules/**/*
 
 yipah-frontend/node_modules
 
