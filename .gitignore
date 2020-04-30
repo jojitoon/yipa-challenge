@@ -1,1 +1,16 @@
 backend/node_modules
+
+yipah-frontend/node_modules
+
+# testing
+/coverage
+
+# production
+yipah-frontend/build
+
+# misc
+backend/.DS_Store
+yipah-frontend/.DS_Store
+yipah-frontend/.env
+backend/.env
+
