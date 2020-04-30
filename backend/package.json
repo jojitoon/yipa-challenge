@@ -14,12 +14,14 @@
     "chai": "^4.2.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "easygraphql-tester": "^5.1.6",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {
     "jest": "^25.5.2",
-    "mongoose": "^5.9.10",
+    "easygraphql-tester": "^5.1.6",
     "nodemon": "^2.0.3"
   }
 }
