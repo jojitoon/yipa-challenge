@@ -30,4 +30,18 @@
 
 - `cd yipahmobile`
 - `yarn`
-- `yarn android` or `yarn ios`
+- `yarn android` or `yarn ios` or `tarn start` and test with your device.
+
+## Mobile Screens
+
+## Ios
+
+![](./screenshots/ios1.png)
+![](./screenshots/ios2.png)
+
+## Android
+
+![](./screenshots/android.png)
+![](./screenshots/android2.png)
+
+# Thanks
