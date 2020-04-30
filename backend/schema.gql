@@ -1,0 +1,12 @@
+scalar Date
+type Data {
+  tnx_id: ID!
+  description: String!
+  user: String!
+  date: Date!
+}
+
+type Query {
+  data: [Data]
+  oneData(tnx_id: ID!): Data
+}
