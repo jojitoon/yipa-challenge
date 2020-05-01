@@ -24,8 +24,6 @@ const client = new ApolloClient({
 const Stack = createStackNavigator();
 
 export default function App(props) {
-  const [isLoadingComplete, setLoadingComplete] = React.useState(false);
-
   React.useEffect(() => {
     SplashScreen.hide();
   }, []);
@@ -48,4 +46,3 @@ export default function App(props) {
     </PaperProvider>
   );
 }
-// }

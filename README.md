@@ -4,7 +4,7 @@
 
 ## Backend: https://yipah-jojitoon-api.herokuapp.com
 
-## Mobile: https://expo.io/@/yipahmobile
+## Mobile: https://expo.io/@jojitoon/yipahmobile
 
 #
 
